@@ -1,4 +1,4 @@
-# Five Minute Tutorial Series
+# Learn in 5 Minutes YouTube Series 
 
 ## Playlist Links
 - [Algorithm Series](https://www.youtube.com/watch?v=WAzGvZbaAOw&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr)
