@@ -9,7 +9,7 @@
 |---------------------------------------------------------------------|---------------------------------------------------------------------|
 | [Fast Exponentiation](https://www.youtube.com/watch?v=WAzGvZbaAOw)  | [Localhost vs 0.0.0.0](https://www.youtube.com/watch?v=ahYgoV8MDtg) |
 | [Fast GCD Computation](https://www.youtube.com/watch?v=I-DClW_0bhU) | [HTTP Status Codes](https://www.youtube.com/watch?v=eCzkqTdBjP4)    |
-| Fast Primality Testing](https://www.youtube.com/watch?v=Yxo9d0HCmmI&list=LL1x8xbTXmulYknwNDyrBImQ&index=3&t=0s)| [Linux Signaling](https://www.youtube.com/watch?v=zXZK3xVLyYc)      |
+| [Fast Primality Testing](https://www.youtube.com/watch?v=Yxo9d0HCmmI&list=LL1x8xbTXmulYknwNDyrBImQ&index=3&t=0s)| [Linux Signaling](https://www.youtube.com/watch?v=zXZK3xVLyYc)      |
 | | [HTTP Request Methods](https://www.youtube.com/watch?v=oi4fbh4B8sk&list=LL1x8xbTXmulYknwNDyrBImQ&index=5&t=0s)|
 
 ## Presentation Links
