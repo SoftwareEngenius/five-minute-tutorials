@@ -1,7 +1,9 @@
 # Learn in 5 Minutes YouTube Series 
 
 ## Introduction & Objective
-<i>Learn in 5 Minutes</i> is a YouTube series consisting of two tracks: algorithms and software engineering. Every week on Friday @12:00pm EST, one video is posted per track each covering a unique topic. The objectives are:
+**Learn in 5 Minutes** is a YouTube series consisting of two tracks: algorithms and software engineering. 
+
+Every week on Friday @12:00pm EST, one video is posted per track each covering a unique topic. The objectives are:
 - Introduce areas of the respective field that are not widely known or understood
 - Provide suitable background to have basic familiarity with the topic
 - Spark interest in new areas and share an appreciation of mathematics, computer science and software engineering :) 
