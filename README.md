@@ -21,6 +21,7 @@ Every week on Friday @12:00pm EST, one video is posted per track each covering a
 | [Fast Euler Phi Function](https://www.youtube.com/watch?v=a0yI1b5PEaY&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr&index=4) | [HTTP Request Methods](https://www.youtube.com/watch?v=XQLCJa--3rA&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr&index=6)|
 | [Fast Modular Multiplicative Inverse](https://www.youtube.com/watch?v=a2SPLj4gKXI&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr&index=5) | [HTTP Versions](https://www.youtube.com/watch?v=RbQBnYN5f7g)|
 | [Fast Modular Combination Functions](https://www.youtube.com/watch?v=XQLCJa--3rA&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr&index=6) | [HTTP Headers](https://www.youtube.com/watch?v=1v7RoeXyww4) |
+| | [HTTP CORS](https://www.youtube.com/watch?v=MeqQIpmvxMA)|
 
 
 ## Presentation Links
