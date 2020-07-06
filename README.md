@@ -21,7 +21,7 @@ Every week on Friday @12:00pm EST, one video is posted per track each covering a
 | [Fast Euler Phi Function](https://www.youtube.com/watch?v=a0yI1b5PEaY&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr&index=4) | [HTTP Request Methods](https://www.youtube.com/watch?v=XQLCJa--3rA&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr&index=6)|
 | [Fast Modular Multiplicative Inverse](https://www.youtube.com/watch?v=a2SPLj4gKXI&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr&index=5) | [HTTP Versions](https://www.youtube.com/watch?v=RbQBnYN5f7g)|
 | [Fast Modular Combination Functions](https://www.youtube.com/watch?v=XQLCJa--3rA&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr&index=6) | [HTTP Headers](https://www.youtube.com/watch?v=1v7RoeXyww4) |
-| | [HTTP CORS](https://www.youtube.com/watch?v=MeqQIpmvxMA)|
+| [Image Scaling (Part 1)](https://www.youtube.com/watch?v=R9mnjPgDCQk&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr&index=8)| [HTTP CORS](https://www.youtube.com/watch?v=MeqQIpmvxMA)|
 
 
 ## Presentation Links
@@ -33,7 +33,7 @@ Every week on Friday @12:00pm EST, one video is posted per track each covering a
 | [Fast Euler Phi Function](https://docs.google.com/presentation/d/18ioh-75DeEyspi3eMGQaHP6MOhwvaYPCPuHkN3kBVt8/edit?usp=sharing) | [HTTP Request Methods](https://docs.google.com/presentation/d/1grk7SvdVEaTIdtHNAwNJn6BydZDcy0juEuClWSnTyIk/edit?usp=sharing)|
 | [Fast Modular Multiplicative Inverse](https://docs.google.com/presentation/d/1TDMYAisIep4nICUF_vDRDYbOjVFQ4k2p4S3fTqWCg_o/edit?usp=sharing)| [HTTP Versions](https://docs.google.com/presentation/d/13YA8Ym2YmM5IVnAg3Dl4JcMpoVIpyNzM6C-F1Y7WuNY/edit?usp=sharing) |
 | [Fast Modular Combination Functions](https://docs.google.com/presentation/d/1yl-KFEXjmVPROMrXVcSfCpNo51NQHQ-565M2WAOT7lM/edit?usp=sharing) | [HTTP Headers](https://docs.google.com/presentation/d/1RpZ4heG5CHVUEQHhtFxGIdkl4q6laG3hmwM_pC97K2c/edit?usp=sharing)|
-| | [HTTP CORS](https://docs.google.com/presentation/d/18Cw8hOsn7OcTUCk3jkj-t8mTWp10_oFh7qSMxkePv98/edit?usp=sharing)|
+| [Image Scaling (Part 1)[https://docs.google.com/presentation/d/1INQLMYawKDCPNv2u3EMwWJ_1Ya8YiMy148RIu2vkf8g/edit?usp=sharing] | [HTTP CORS](https://docs.google.com/presentation/d/18Cw8hOsn7OcTUCk3jkj-t8mTWp10_oFh7qSMxkePv98/edit?usp=sharing)|
 
 
 ## Questions or feedback?
