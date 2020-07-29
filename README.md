@@ -24,6 +24,7 @@ Every week on Friday @12:00pm EST, one video is posted per track each covering a
 | [Image Scaling (Part 1)](https://www.youtube.com/watch?v=R9mnjPgDCQk&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr&index=8)| [HTTP CORS](https://www.youtube.com/watch?v=MeqQIpmvxMA)|
 | [Image Scaling (Part 2)](https://www.youtube.com/watch?v=HQHuQv4a8cU)| [HTTP/2](https://www.youtube.com/watch?v=azbFKQWrhrE&list=PLIRuSslToIDgX7leusWZqzAIQAfvDG1mJ&index=8)|
 | [Image Blurring](https://youtu.be/SIhuPb-PLto)| [HTTP/2 HPACK](https://youtu.be/mc-wefMCX8k)|
+| | [HTTP Cookies](https://www.youtube.com/watch?v=EqvUF_tVry0)|
 
 
 ## Presentation Links
@@ -38,6 +39,7 @@ Every week on Friday @12:00pm EST, one video is posted per track each covering a
 | [Image Scaling (Part 1)](https://docs.google.com/presentation/d/1INQLMYawKDCPNv2u3EMwWJ_1Ya8YiMy148RIu2vkf8g/edit?usp=sharing) | [HTTP CORS](https://docs.google.com/presentation/d/18Cw8hOsn7OcTUCk3jkj-t8mTWp10_oFh7qSMxkePv98/edit?usp=sharing)|
 | [Image Scaling (Part 2)](https://docs.google.com/presentation/d/1zqpFtLrDXP93UfSLz-9fvR1CaywuNeZJ39bc5Ur0FDs/edit?usp=sharing) | [HTTP/2](https://docs.google.com/presentation/d/1XY_hV0x-YjMXH6OV49rcI8Cqh3fdkTDWdfC_PhhMQsk/edit?usp=sharing)|
 | [Image Blurring](https://docs.google.com/presentation/d/15EeWkT8DkP1OJI3yilpgVBb2DMycLeDpqesDO0F97pw/edit?usp=sharing)| [HTTP/2 HPACK](https://docs.google.com/presentation/d/1KLbBYOUUfDd3vG_ThcMzhw-GObxC_Ck4gQkabHSO4OI/edit?usp=sharing)|
+| | [HTTP Cookies](https://docs.google.com/presentation/d/16D37AZ_2ff3AfqPW1QXS9ycIPrAWCnNaprh023RY1Zw/edit?usp=sharing)|
 
 
 ## Questions or feedback?
