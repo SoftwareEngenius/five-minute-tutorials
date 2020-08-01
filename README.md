@@ -1,4 +1,5 @@
 # Learn in 5 Minutes YouTube Series 
+![](https://i.imgur.com/QbnhHsJ.png)
 
 ## Introduction & Objective
 **Learn in 5 Minutes** is a YouTube series consisting of two tracks: algorithms and software engineering. 
@@ -35,7 +36,7 @@ Every week on Friday @12:00pm EST, one video is posted per track each covering a
 | [Fast Primality Testing](https://docs.google.com/presentation/d/1mROUEpDbx0N3YMcs8ZAvB4y3SHYqPNzPd0_Ak_obWJs/edit?usp=sharing)| [HTTP Status Codes](https://docs.google.com/presentation/d/1cWqajmdqHNT_RbEmqyrJLYUP0-twDWvAyVjlJ9Anilk/edit?usp=sharing) |
 | [Fast Euler Phi Function](https://docs.google.com/presentation/d/18ioh-75DeEyspi3eMGQaHP6MOhwvaYPCPuHkN3kBVt8/edit?usp=sharing) | [HTTP Request Methods](https://docs.google.com/presentation/d/1grk7SvdVEaTIdtHNAwNJn6BydZDcy0juEuClWSnTyIk/edit?usp=sharing)|
 | [Fast Modular Multiplicative Inverse](https://docs.google.com/presentation/d/1TDMYAisIep4nICUF_vDRDYbOjVFQ4k2p4S3fTqWCg_o/edit?usp=sharing)| [HTTP Versions](https://docs.google.com/presentation/d/13YA8Ym2YmM5IVnAg3Dl4JcMpoVIpyNzM6C-F1Y7WuNY/edit?usp=sharing) |
-| [Fast Modular Combination Functions](https://docs.google.com/presentation/d/1yl-KFEXjmVPROMrXVcSfCpNo51NQHQ-565M2WAOT7lM/edit?usp=sharing) | [HTTP Headers](https://docs.google.com/presentation/d/1RpZ4heG5CHVUEQHhtFxGIdkl4q6laG3hmwM_pC97K2c/edit?usp=sharing)|
+| [Fast Modular Combination Functions](https://docs.google.com/presentation/d/1yl-KFEXjmVPROMrXVcSfCpNo51NQHQ-565M2WAOT7lM/edit?usp=sharing) | [HTTP Headers](https://docs.google.com/presentation/d/1RpZ4heG5CHVUEQHhtFxGIdkl4q6laG3hmwM_pC97K2c/edit?usp=sharing)|X
 | [Image Scaling (Part 1)](https://docs.google.com/presentation/d/1INQLMYawKDCPNv2u3EMwWJ_1Ya8YiMy148RIu2vkf8g/edit?usp=sharing) | [HTTP CORS](https://docs.google.com/presentation/d/18Cw8hOsn7OcTUCk3jkj-t8mTWp10_oFh7qSMxkePv98/edit?usp=sharing)|
 | [Image Scaling (Part 2)](https://docs.google.com/presentation/d/1zqpFtLrDXP93UfSLz-9fvR1CaywuNeZJ39bc5Ur0FDs/edit?usp=sharing) | [HTTP/2](https://docs.google.com/presentation/d/1XY_hV0x-YjMXH6OV49rcI8Cqh3fdkTDWdfC_PhhMQsk/edit?usp=sharing)|
 | [Image Blurring](https://docs.google.com/presentation/d/15EeWkT8DkP1OJI3yilpgVBb2DMycLeDpqesDO0F97pw/edit?usp=sharing)| [HTTP/2 HPACK](https://docs.google.com/presentation/d/1KLbBYOUUfDd3vG_ThcMzhw-GObxC_Ck4gQkabHSO4OI/edit?usp=sharing)|
