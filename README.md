@@ -25,8 +25,11 @@ Every week on Friday @12:00pm EST, one video is posted per track each covering a
 | [Image Scaling (Part 1)](https://www.youtube.com/watch?v=R9mnjPgDCQk&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr&index=8)| [HTTP CORS](https://www.youtube.com/watch?v=MeqQIpmvxMA)|
 | [Image Scaling (Part 2)](https://www.youtube.com/watch?v=HQHuQv4a8cU)| [HTTP/2](https://www.youtube.com/watch?v=azbFKQWrhrE&list=PLIRuSslToIDgX7leusWZqzAIQAfvDG1mJ&index=8)|
 | [Image Blurring](https://youtu.be/SIhuPb-PLto)| [HTTP/2 HPACK](https://youtu.be/mc-wefMCX8k)|
-| [Image Edge Detection](https://www.youtube.com/watch?v=gmrbZOpPeno)| [HTTP Cookies](https://www.youtube.com/watch?v=EqvUF_tVry0)|
+| [Image Edge Detection](https://www.youtube.com/watch?v=gmrbZOpPeno)| [HTTP/3](https://www.youtube.com/watch?v=aJZeI8w5kAs&feature=youtu.be)|
+| | [HTTP Cookies](https://www.youtube.com/watch?v=EqvUF_tVry0)|
 ||[JSON Web Tokens (JWT)](https://www.youtube.com/watch?v=pKrR85YgaRE&feature=youtu.be)|
+
+
 
 
 ## Presentation Links
