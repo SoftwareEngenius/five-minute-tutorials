@@ -30,8 +30,6 @@ Every week on Friday @12:00pm EST, one video is posted per track each covering a
 ||[JSON Web Tokens (JWT)](https://www.youtube.com/watch?v=pKrR85YgaRE&feature=youtu.be)|
 
 
-
-
 ## Presentation Links
 | Algorithms                                                          | Software Engineering                                                |
 |---------------------------------------------------------------------|---------------------------------------------------------------------|
@@ -45,6 +43,7 @@ Every week on Friday @12:00pm EST, one video is posted per track each covering a
 | [Image Scaling (Part 2)](https://docs.google.com/presentation/d/1zqpFtLrDXP93UfSLz-9fvR1CaywuNeZJ39bc5Ur0FDs/edit?usp=sharing) | [HTTP/2](https://docs.google.com/presentation/d/1XY_hV0x-YjMXH6OV49rcI8Cqh3fdkTDWdfC_PhhMQsk/edit?usp=sharing)|
 | [Image Blurring](https://docs.google.com/presentation/d/15EeWkT8DkP1OJI3yilpgVBb2DMycLeDpqesDO0F97pw/edit?usp=sharing)| [HTTP/2 HPACK](https://docs.google.com/presentation/d/1KLbBYOUUfDd3vG_ThcMzhw-GObxC_Ck4gQkabHSO4OI/edit?usp=sharing)|
 | [Image Edge Detection](https://docs.google.com/presentation/d/1adkTBGF4WQbg339klNmzc9hYyje8OYl1MP2QFi9-lag/edit?usp=sharing) | [HTTP/3](https://docs.google.com/presentation/d/1A3Fkrr0Spb7vA6Rw_O-YRd2L7WqqqOwXx_pIUfGwp8E/edit?usp=sharing)|
+| | [HTTP/3 QPACK](https://docs.google.com/presentation/d/1DvHirB_kM9mKf-6ra_raqu0h15vXwovgGnffDRHK9es/edit?usp=sharing)|
 | | [HTTP Cookies](https://docs.google.com/presentation/d/16D37AZ_2ff3AfqPW1QXS9ycIPrAWCnNaprh023RY1Zw/edit?usp=sharing)|
 | | [JSON Web Tokens (JWT)](https://docs.google.com/presentation/d/1j6DgeLW22AfnJuQrJoLVmglSaOGDghYOi2NLZ3cFr5M/edit?usp=sharing)|
 
