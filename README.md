@@ -27,7 +27,7 @@ Every week on Friday @12:00pm EST, one video is posted per track each covering a
 | [Image Blurring](https://youtu.be/SIhuPb-PLto)| [HTTP/2 HPACK](https://youtu.be/mc-wefMCX8k)|
 | [Image Edge Detection](https://www.youtube.com/watch?v=gmrbZOpPeno)| [HTTP/3](https://www.youtube.com/watch?v=aJZeI8w5kAs&feature=youtu.be)|
 | [Rating Systems](https://youtu.be/nFKyRDkb60Y)| [HTTP/3 QPACK](https://youtu.be/TQERHcPnTsc)|
-| | [HTTP Cookies](https://www.youtube.com/watch?v=EqvUF_tVry0)|
+| [Lossless Compression](https://youtu.be/RMdzXS_vlJc0) | [HTTP Cookies](https://www.youtube.com/watch?v=EqvUF_tVry0)|
 ||[JSON Web Tokens (JWT)](https://www.youtube.com/watch?v=pKrR85YgaRE&feature=youtu.be)|
 
 
