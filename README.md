@@ -28,7 +28,7 @@ Every week on Friday @12:00pm EST, one video is posted per track each covering a
 | [Image Edge Detection](https://www.youtube.com/watch?v=gmrbZOpPeno)| [HTTP/3](https://www.youtube.com/watch?v=aJZeI8w5kAs&feature=youtu.be)|
 | [Rating Systems](https://youtu.be/nFKyRDkb60Y)| [HTTP/3 QPACK](https://youtu.be/TQERHcPnTsc)|
 | [Lossless Compression](https://youtu.be/RMdzXS_vlJc0) | [HTTP Cookies](https://www.youtube.com/watch?v=EqvUF_tVry0)|
-||[JSON Web Tokens (JWT)](https://www.youtube.com/watch?v=pKrR85YgaRE&feature=youtu.be)|
+|[LZ77 Compression](https://youtu.be/jVcTrBjI-eE) |[JSON Web Tokens (JWT)](https://www.youtube.com/watch?v=pKrR85YgaRE&feature=youtu.be)|
 
 
 ## Presentation Links
