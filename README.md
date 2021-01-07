@@ -48,7 +48,7 @@ Every week on Friday @12:00pm EST, one video covering a unique topic. The object
 | [Rating Systems](https://docs.google.com/presentation/d/1okHVsAP_lvnrgsOjZ4iXnI3qXQu3hZRAd8cNWVJkw8A/edit?usp=sharing) | [HTTP/3 QPACK](https://docs.google.com/presentation/d/1DvHirB_kM9mKf-6ra_raqu0h15vXwovgGnffDRHK9es/edit?usp=sharing)|
 | [Lossless Compression](https://docs.google.com/presentation/d/1SlD2cFepF86zkcJyoijV953J8RuBcVOQ8Q_FOYvYRvg/edit?usp=sharing) | [HTTP Cookies](https://docs.google.com/presentation/d/16D37AZ_2ff3AfqPW1QXS9ycIPrAWCnNaprh023RY1Zw/edit?usp=sharing)|
 | [LZ77 Compression](https://docs.google.com/presentation/d/1FNDGKhaoltr55vkuwnzYS7QOGxhyo8FgF3J4Hmq1gs0/edit?usp=sharing) | [JSON Web Tokens (JWT)](https://docs.google.com/presentation/d/1j6DgeLW22AfnJuQrJoLVmglSaOGDghYOi2NLZ3cFr5M/edit?usp=sharing)|
-| [Decision Trees](https://docs.google.com/presentation/d/1UQd98IVsAyA9JluXWZm8UB_7cYZPfcSoISJ4AweyYzU/edit?usp=sharing) | |
+| [Decision Trees](https://docs.google.com/presentation/d/1UQd98IVsAyA9JluXWZm8UB_7cYZPfcSoISJ4AweyYzU/edit?usp=sharing) | [Single-Leader Replication](https://docs.google.com/presentation/d/1tWUwIBqTiuQrrH76RHxwGTbaJRZcQluNyswWXs84RhU/edit?usp=sharing) |
 
 ## Questions or feedback?
 Feel free to leave questions as comments in the associated video. If you have any recommendations for topics, please leave an issue on GitHub or comment in one of the videos.
