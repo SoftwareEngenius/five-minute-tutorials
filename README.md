@@ -50,6 +50,7 @@ Every week on Friday @12:00pm EST, one video covering a unique topic. The object
 | [LZ77 Compression](https://docs.google.com/presentation/d/1FNDGKhaoltr55vkuwnzYS7QOGxhyo8FgF3J4Hmq1gs0/edit?usp=sharing) | [JSON Web Tokens (JWT)](https://docs.google.com/presentation/d/1j6DgeLW22AfnJuQrJoLVmglSaOGDghYOi2NLZ3cFr5M/edit?usp=sharing)|
 | [Decision Trees](https://docs.google.com/presentation/d/1UQd98IVsAyA9JluXWZm8UB_7cYZPfcSoISJ4AweyYzU/edit?usp=sharing) | [Single-Leader Replication](https://docs.google.com/presentation/d/1tWUwIBqTiuQrrH76RHxwGTbaJRZcQluNyswWXs84RhU/edit?usp=sharing) |
 | [Locality Sensitive Hashing](https://docs.google.com/presentation/d/1raFSWIHRJU5Tw4NPrW8WSpeeAdSnbrPnXiPYJOc1q78/edit?usp=sharing) ||
+| [MinHash Nearest Neighbor](https://docs.google.com/presentation/d/1NS_G3gDMya-c0cU_ixSazLOJpDF78tGyhrUO_GkChac/edit?usp=sharing) ||
 
 ## Questions or feedback?
 Feel free to leave questions as comments in the associated video. If you have any recommendations for topics, please leave an issue on GitHub or comment in one of the videos.
