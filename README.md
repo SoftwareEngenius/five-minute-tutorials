@@ -30,6 +30,8 @@ Every week on Friday @12:00pm EST, one video covering a unique topic. The object
 | [Lossless Compression](https://youtu.be/RMdzXS_vlJc0) | [HTTP Cookies](https://www.youtube.com/watch?v=EqvUF_tVry0)|
 |[LZ77 Compression](https://youtu.be/jVcTrBjI-eE) |[JSON Web Tokens (JWT)](https://www.youtube.com/watch?v=pKrR85YgaRE&feature=youtu.be)|
 | [Decision Trees](https://youtu.be/V7OZL94IyWo)| [Single-Leader Replication](https://youtu.be/DwRaksqHdUM)|
+| [Locality Sensitive Hashing](https://youtu.be/R-iFka68ZwM)| [Multi-Leader Replication](https://youtu.be/AnG1vr5nj80)|
+| [MinHash Nearest Neighbor](https://youtu.be/GRHsg0d5X8Y)| [Leaderless Replication](https://youtu.be/Vx1yCOnOHQc)|
 
 
 ## Presentation Links
